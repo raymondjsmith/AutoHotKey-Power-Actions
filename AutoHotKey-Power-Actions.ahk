@@ -1,4 +1,12 @@
-﻿; -----------------------------------------------------
+*.ahk linguist-detectable=true
+*.csharp linguist-detectable=true
+*.java linguist-detectable=false
+*.js linguist-detectable=false
+*.html linguist-detectable=false
+*.xml linguist-detectable=false
+
+
+; -----------------------------------------------------
 ; Script created by Raymond Reddington
 ; Date: 8/30/2023
 ; Description: This script provides hotkeys to suspend, hibernate, shut down, and restart the computer using AutoHotKey.
